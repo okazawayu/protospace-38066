@@ -17,6 +17,8 @@
 - has_many :comments
 
 
+
+
 ## prototypes テーブル
 
 | Column      | Type   | Options     |
@@ -30,6 +32,7 @@
 
 - belongs_to : user
 - has_many :comments
+
 
 
 
